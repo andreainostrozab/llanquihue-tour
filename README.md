@@ -13,3 +13,14 @@ Programa en Java que lee información de tours desde el archivo 'resources/tours
 - 'src/ui': clase 'Main'
 - 'resources': archivo 'tours.txt'
 - 'README.md': descripción del proyecto
+
+## Cómo ejecutar la clase Main
+1. Abrir el proyeto en IntelliJ IDEA
+2. Verificar que 'resources/tours.txt' esté en la carpeta principal del proyecto.
+3. Ejecuta el archivo 'Main.java' dentro del paquete 'ui
+
+---
+
+**Repositorio de Github:** \[https://github.com/andreainostrozab/llanquihue-tour].
+
+**Fecha de entrega:** \[16/11/2026]
