@@ -1,0 +1,6 @@
+SaboresDelMar;Gastronomico;Concepcion;45000
+RutaMurales;Cultural;Valparaiso;20000
+ExpedicionGlaciares;Natural;Aysen;14000
+KayacEntreVolcanes;Aventura;Pucon;50000
+SantuarioDePinguinos;Natural;Coquimbo;55000
+RecorridoPatrimonial;Cultural;Frutillar;12000
